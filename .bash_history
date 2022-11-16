@@ -8,3 +8,4 @@ yum install jenkins -y
 systemctl enable jenkins
 systemctl start jenkins
 vim /var/lib/jenkins/secrets/initialAdminPassword 
+echo completed
